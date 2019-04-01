@@ -5,16 +5,16 @@
    "name": "CITY",
    "children": [
     {
-     "name": "cluster",
+     "name": "Financing",
      "children": [
-      {"name": "AgglomerativeCluster", "size": 3938},
+      {"name": "Quantity", "size": 3938},
       {"name": "CommunityStructure", "size": 3812},
       {"name": "HierarchicalCluster", "size": 6714},
       {"name": "MergeEdge", "size": 743}
      ]
     },
     {
-     "name": "graph",
+     "name": "Dividends",
      "children": [
       {"name": "BetweennessCentrality", "size": 3534},
       {"name": "LinkDistance", "size": 5731},
@@ -24,7 +24,19 @@
      ]
     },
     {
-     "name": "optimization",
+     "name": "Open",
+     "children": [
+      {"name": "AspectRatioBanker", "size": 7074}
+     ]
+   },
+   {
+    "name": "Close",
+    "children": [
+     {"name": "AspectRatioBanker", "size": 7074}
+    ]
+   },
+    {
+     "name": "Wrapper",
      "children": [
       {"name": "AspectRatioBanker", "size": 7074}
      ]
@@ -251,7 +263,7 @@
     },
     {
      "name": "Wrapper",
-     "children": [ 
+     "children": [
       {"name": "Legend", "size": 20859},
       {"name": "LegendItem", "size": 4614},
       {"name": "LegendRange", "size": 10530}
@@ -261,4 +273,3 @@
   }
  ]
 }
-
