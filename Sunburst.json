@@ -175,7 +175,7 @@
    ]
   },
   {
-   "name": "scale",
+   "name": "UBS",
    "children": [
     {"name": "IScaleMap", "size": 2105},
     {"name": "LinearScale", "size": 1316},
@@ -257,7 +257,6 @@
       {"name": "LegendRange", "size": 10530}
      ]
     },
-    {"name": "Visualization", "size": 16540}
    ]
   }
  ]
