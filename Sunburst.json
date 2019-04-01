@@ -243,8 +243,8 @@
     {
      "name": "Close",
      "children": [
-      {"name": "DataEvent", "size": 2313},
-      {"name": "SelectionEvent", "size": 2880},
+      {"name": "DataEvent", "size": 21313},
+      {"name": "SelectionEvent", "size": 21880},
       {"name": "TooltipEvent", "size": 2701},
       {"name": "VisualizationEvent", "size": 1117}
      ]
