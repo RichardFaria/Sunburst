@@ -83,7 +83,7 @@
    ]
   },
   {
-   "name": "display",
+   "name": "GS",
    "children": [
     {"name": "DirtySprite", "size": 8833},
     {"name": "LineSprite", "size": 1732},
@@ -92,7 +92,7 @@
    ]
   },
   {
-   "name": "physics",
+   "name": "CS",
    "children": [
     {"name": "DragForce", "size": 1082},
     {"name": "GravityForce", "size": 1336},
@@ -105,7 +105,7 @@
    ]
   },
   {
-   "name": "query",
+   "name": "MS",
    "children": [
     {"name": "AggregateExpression", "size": 1616},
     {"name": "And", "size": 1027},
