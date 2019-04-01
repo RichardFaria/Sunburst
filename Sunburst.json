@@ -251,7 +251,7 @@
     },
     {
      "name": "Wrapper",
-     "children": [
+     "children": [ 
       {"name": "Legend", "size": 20859},
       {"name": "LegendItem", "size": 4614},
       {"name": "LegendRange", "size": 10530}
