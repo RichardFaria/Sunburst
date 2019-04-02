@@ -2,67 +2,37 @@
  "name": "BACK",
  "children": [
   {
-   "name": "CITI",
+   "name": "CITY",
    "children": [
     {
      "name": "Financing",
      "children": [
-    {
-     "name": "Pending",
-     "children": [
-      {"name": "Quantuty", "size": 1983},
-      {"name": "Direction", "size": 2047},
-      {"name": "Long Spread", "size": 1375},
-      {"name": "Short Spread", "size": 8746},
-      {"name": "Trade Dates", "size": 2202},
-      {"name": "Reset Dates", "size": 1382}
-     ]
-    },
-    {
-     "name": "Accepted",
-     "children": [
-      {"name": "Quantuty", "size": 1983},
-      {"name": "Direction", "size": 2047},
-      {"name": "Long Spread", "size": 1375},
-      {"name": "Short Spread", "size": 8746},
-      {"name": "Trade Dates", "size": 2202},
-      {"name": "Reset Dates", "size": 1382}
-     ]
-    },
-    {
-     "name": "Disputed",
-     "children": [
-      {"name": "Quantuty", "size": 1983},
-      {"name": "Direction", "size": 2047},
-      {"name": "Long Spread", "size": 1375},
-      {"name": "Short Spread", "size": 8746},
-      {"name": "Trade Dates", "size": 2202},
-      {"name": "Reset Dates", "size": 1382}
+      {"name": "Pending", "size": 3938},
+      {"name": "Accepted", "size": 3812},
+      {"name": "Disputed", "size": 6714}
      ]
     },
     {
      "name": "Dividends",
      "children": [
-      {"name": "Pending", "size": 3938},
-      {"name": "Accepted", "size": 3812},
-      {"name": "Disputed", "size": 6714}
+      {"name": "BetweennessCentrality", "size": 3534},
+      {"name": "LinkDistance", "size": 5731},
+      {"name": "MaxFlowMinCut", "size": 7840},
+      {"name": "ShortestPaths", "size": 5914},
+      {"name": "SpanningTree", "size": 3416}
      ]
     },
     {
      "name": "Open",
      "children": [
-      {"name": "Pending", "size": 3938},
-      {"name": "Accepted", "size": 3812},
-      {"name": "Disputed", "size": 6714}
+      {"name": "AspectRatioBanker", "size": 7074}
      ]
    },
    {
     "name": "Close",
-     "children": [
-      {"name": "Pending", "size": 3938},
-      {"name": "Accepted", "size": 3812},
-      {"name": "Disputed", "size": 6714}
-     ]
+    "children": [
+     {"name": "AspectRatioBanker", "size": 7074}
+    ]
    },
     {
      "name": "Wrapper",
