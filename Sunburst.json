@@ -23,14 +23,18 @@
     {
      "name": "Open",
      "children": [
-      {"name": "AspectRatioBanker", "size": 7074}
+      {"name": "Pending", "size": 3938},
+      {"name": "Accepted", "size": 3812},
+      {"name": "Disputed", "size": 6714}
      ]
    },
    {
     "name": "Close",
-    "children": [
-     {"name": "AspectRatioBanker", "size": 7074}
-    ]
+     "children": [
+      {"name": "Pending", "size": 3938},
+      {"name": "Accepted", "size": 3812},
+      {"name": "Disputed", "size": 6714}
+     ]
    },
     {
      "name": "Wrapper",
