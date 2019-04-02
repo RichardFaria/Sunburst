@@ -7,10 +7,9 @@
     {
      "name": "Financing",
      "children": [
-      {"name": "Quantity", "size": 3938},
-      {"name": "CommunityStructure", "size": 3812},
-      {"name": "HierarchicalCluster", "size": 6714},
-      {"name": "MergeEdge", "size": 743}
+      {"name": "Pending", "size": 3938},
+      {"name": "Accepted", "size": 3812},
+      {"name": "Disputed", "size": 6714}
      ]
     },
     {
